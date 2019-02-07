@@ -32,6 +32,7 @@
   ],
   "files": [
     "src/*",
+    "css/*",
     "types.d.ts",
     "README.md",
     "CHANGELOG.md",
