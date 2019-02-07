@@ -31,8 +31,7 @@
     "quill"
   ],
   "files": [
-    "dist/",
-    "lib/",
+    "src/",
     "types.d.ts",
     "README.md",
     "CHANGELOG.md",
